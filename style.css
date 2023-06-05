@@ -9,11 +9,7 @@ header{
     background-color: silver;
     margin: 20px;
 }
-nav ul li a{
-    text-decoration: none;
-}
 nav ul li{
-    list-style-type: none;
     margin: 0px 10px;
     padding: 3px;
     background-color: silver;
@@ -25,11 +21,18 @@ nav ul{
     justify-content: center;
     padding-inline-start: 0px;
 }
-
-
-
-
-
+nav{
+    width: 100%;
+}
+a{
+    text-decoration: none;
+}
+span{
+    font-weight: bold;
+}
+li{
+    list-style-type: none;
+}
 section{
     border: 1px solid black;
     padding: 10px;
@@ -44,7 +47,10 @@ section img{
     border-radius: 300px;
     border: 5px inset black;
 }
-
-.obj-pers{
-    background-color: aqua;
+table{
+    display: flex;
+    justify-content: center;
+}
+table tbody{
+    border: 1px solid black;
 }
