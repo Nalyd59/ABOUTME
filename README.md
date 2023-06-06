@@ -21,15 +21,15 @@
 ###### *footer*
 - [x] *copyright*
 ###### *index.html*
-- [ ] *(h1)*
-- [ ] image centrée sur le visage
-- [ ] paragraphe *(p)* contenant "NOM" et "Prénom" signalés comme importants *(strong)*
-- [ ] comment en êtes vous arrivé(e) là aujourd'hui? (1 à 2 *p*)
+- [x] *(h1)*
+- [x] image centrée sur le visage
+- [x] paragraphe *(p)* contenant "NOM" et "Prénom" signalés comme importants *(strong)*
+- [x] comment en êtes vous arrivé(e) là aujourd'hui? (1 à 2 *p*)
 ###### *about-me.html*
-- [ ] *(h1)*
-- [ ] *(h2)*
-- [ ] listes classiques *(ul)*
-- [ ] tableau
+- [x] *(h1)*
+- [x] *(h2)*
+- [x] listes classiques *(ul)*
+- [x] tableau
 ###### *my-dreams.html*
 - [x] *(h1)*
 - [x] *(h2)*
